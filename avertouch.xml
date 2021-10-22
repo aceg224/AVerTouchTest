@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>AVerTouch</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Version 1.15]]></title>
+            <description><![CDATA[<ul>
+                <li>修復問題 01</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 10 Apr 2019 19:58:11 +0000</pubDate>
+            <enclosure
+                url="http://download.aver.com/APlusSuite/check4Update/AVerTouch.zip"
+                sparkle:shortVersionString="1.15"
+                sparkle:version="1.3.2099"
+                type="application/octet-stream"
+                sparkle:edSignature="wdV7isW0Rw0QH+qvSRlZOx6s3BWLYADPFJxYYt1rwXeEv76ElSg47nQulFm57gu4oWImwRNiqHuZJ10+nUgvAA=="
+                length="25737335"
+            />
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
